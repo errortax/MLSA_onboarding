@@ -6,6 +6,7 @@
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
+    "build-gh": "parcel build --public-url 'http://errortax.github.io/MLSA_onboarding'",
     "predeploy" : "npm run build",
     "deploy" : "gh-pages -d build"
   },
@@ -18,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/microsoft/codespaces-teaching-template-js/issues"
   },
-  "homepage": "https://github.com/microsoft/codespaces-teaching-template-js#readme",
+  "homepage": "http://errortax.github.io/MLSA_onboarding",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
