@@ -21,7 +21,7 @@ import image from "../images/mosaic.svg";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm an ICE student studying at Bangladesh University of Professionals. I enjoy creating unique and simplistic user interfaces in creative ways.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -30,10 +30,10 @@ const description =
 const skillsList = [
   "Web design",
   "User experience",
-  "Inclusive design",
+  "Problem Solving",
   "Focus group testing",
   "Mobile user interfaces",
-  "Graphic design",
+  "Content Writing",
 ];
 
 /**
